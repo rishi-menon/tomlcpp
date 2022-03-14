@@ -24,7 +24,7 @@
   SOFTWARE.
 
 */
-#include "tomlcpp.hpp"
+#include "tomlcpp.h"
 #include "toml.h"
 #include <fstream>
 #include <memory>

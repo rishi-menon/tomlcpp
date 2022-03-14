@@ -24,6 +24,10 @@
 */
 #ifndef TOML_HPP
 #define TOML_HPP
+#include <utility>
+#include <vector>
+#include <string>
+#include <memory>
 
 struct toml_table_t;
 struct toml_array_t;
